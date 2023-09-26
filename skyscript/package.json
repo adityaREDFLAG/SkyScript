@@ -1,0 +1,22 @@
+{
+  "name": "skyscript",
+  "version": "1.0.0",
+  "description": "SkyScript",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityaREDFLAG/SkyScript.git"
+  },
+  "keywords": [
+    "sky"
+  ],
+  "author": "adityaredflag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityaREDFLAG/SkyScript/issues"
+  },
+  "homepage": "https://github.com/adityaREDFLAG/SkyScript#readme"
+}
